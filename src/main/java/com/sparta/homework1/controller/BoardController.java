@@ -2,8 +2,6 @@ package com.sparta.homework1.controller;
 
 import com.sparta.homework1.domain.Board;
 import com.sparta.homework1.domain.BoardDto;
-import com.sparta.homework1.domain.Comment;
-import com.sparta.homework1.domain.CommentDto;
 import com.sparta.homework1.service.BoardService;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Controller;

@@ -2,7 +2,6 @@ package com.sparta.homework1.domain;
 
 
 import lombok.Getter;
-import lombok.RequiredArgsConstructor;
 import lombok.Setter;
 
 @Getter

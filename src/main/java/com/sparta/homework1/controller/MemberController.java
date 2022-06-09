@@ -3,9 +3,7 @@ package com.sparta.homework1.controller;
 
 import com.sparta.homework1.domain.Member;
 import com.sparta.homework1.domain.MemberDto;
-import com.sparta.homework1.repository.MemberRepository;
 import com.sparta.homework1.service.MemberService;
-import lombok.RequiredArgsConstructor;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.web.bind.annotation.*;
 

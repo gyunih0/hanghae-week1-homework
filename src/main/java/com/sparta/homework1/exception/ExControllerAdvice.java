@@ -1,7 +1,6 @@
 package com.sparta.homework1.exception;
 
 
-import com.sparta.homework1.controller.CommentController;
 import lombok.extern.slf4j.Slf4j;
 import org.springframework.http.HttpStatus;
 import org.springframework.web.bind.MethodArgumentNotValidException;
